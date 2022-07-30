@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhuvanv2548
-- 👀 I’m interested in Sports
-- 🌱 I’m currently learning coding
+- 👀 I have been practising graphic designing in my college.
+- 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on different programs and projects based on coding.
 - 📫 You can contact me through my email id @bverma_be21@thapar.edu
 
